@@ -1,14 +1,14 @@
-# Day 1: Review the basics of algorithms and data structures. Familiarize yourself with common algorithms, such as sorting and searching, and data structures, such as arrays, linked lists, and trees.
+### Day 1: Review the basics of algorithms and data structures. Familiarize yourself with common algorithms, such as sorting and searching, and data structures, such as arrays, linked lists, and trees.
 
-## Read through a textbook or online resource that covers the basics of algorithms and data structures. Some good options include "Introduction to the Design and Analysis of Algorithms" by Anany Levitin or "Algorithms" by Robert Sedgewick and Kevin Wayne.
+* Read through a textbook or online resource that covers the basics of algorithms and data structures. Some good options include "Introduction to the Design and Analysis of Algorithms" by Anany Levitin or "Algorithms" by Robert Sedgewick and Kevin Wayne.
 
-## Work through practice problems and exercises to reinforce your understanding of the concepts. There are many online resources that offer practice problems and solutions, such as HackerRank, LeetCode, and Project Euler.
+* Work through practice problems and exercises to reinforce your understanding of the concepts. There are many online resources that offer practice problems and solutions, such as HackerRank, LeetCode, and Project Euler.
 
-## Attend a course or watch online tutorials to learn about algorithms and data structures in more depth. There are many resources available, such as Coursera, Udemy, and Khan Academy, that offer courses on algorithms and data structures.
+* Attend a course or watch online tutorials to learn about algorithms and data structures in more depth. There are many resources available, such as Coursera, Udemy, and Khan Academy, that offer courses on algorithms and data structures.
 
-## Try implementing common algorithms, such as sorting and searching, and data structures, such as arrays and linked lists, in a programming language of your choice. This will help you gain a deeper understanding of how these concepts work and how to apply them in practice.
+* Try implementing common algorithms, such as sorting and searching, and data structures, such as arrays and linked lists, in a programming language of your choice. This will help you gain a deeper understanding of how these concepts work and how to apply them in practice.
 
-## Attend meetups or join online communities related to algorithms and data structures. This can be a good way to learn from others and stay up-to-date on the latest developments in the field.
+* Attend meetups or join online communities related to algorithms and data structures. This can be a good way to learn from others and stay up-to-date on the latest developments in the field.
 
 Day 2: Practice solving algorithm problems on online platforms, such as HackerRank or LeetCode. Start with easier problems and gradually work your way up to more challenging ones.
 
